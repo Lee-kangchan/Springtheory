@@ -25,7 +25,8 @@
 ## Bean
   + 어플리케이션의 핵심 코드를 담고 있는 클래스
 ## 의존성 주입(DI : Dependency Injection)
-
+  + 객체간의 의존성을 자신이 아닌 외부에서 주입하는 개념
+  
 ## 관점지향 프로그래밍(AOP : Aspect-Oriented Programming)
 
 ## 트랜잭션
